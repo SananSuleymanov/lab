@@ -1,0 +1,1 @@
+The projet goal is to predict stock prices using deep learning. The deep learning algorithm is built on the LSTM based Recurrent Neural Network. Current model was only trained on the IBM stock data and app itself only shows the prediction for that stock. The test result of model is shown in the belowmentioned figure. 
